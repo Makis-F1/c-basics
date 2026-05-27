@@ -3,7 +3,8 @@
 - this is the first day of learning c language and today I made few basic programes
 
 ## TASKS
-- 1. Task was the classic one: Hello World
+-1. Task was the classic one: Hello World
+
 First programme is an introduction to programing by saying hello to it wtih an easy printf. An aditional task was to create a program that writes down a name and year of studies so I did it seperatly.
 
 -2. Task was to make a program that calculates an average of any three numbers
@@ -18,4 +19,5 @@ That is an easy one. Scanf to be able to enter a number, after that multiply tha
 
 When in printf I just put instead of regular %f this %.2f and that is our day one done.
 
+## Day01 completed
 It is an easy start but that is just the begining. This journey only started...
