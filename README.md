@@ -1,16 +1,10 @@
-# Day 01
+## What is this
+ 
+ - this is me following my progress learning programming
 
-## learned
-- printf
-- scanf
-- variables
--
+## Goal
 
-## Tests
-- positive numbers
-- negative numbers
+- goal is to be able to programme and maybe one day work in an f1 team or something like that you never know
 
-## Commit
-Day 01 complete
 
 
