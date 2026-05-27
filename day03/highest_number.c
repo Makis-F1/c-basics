@@ -7,9 +7,8 @@ int main(void){
 
     printf("Enter three numbers:");
     scanf("%d %d %d",&x,&y,&z);
-    if(x>h){
-        h=x;
-    }
+
+    h=x;
     if(y>h){
         h=y;
     }
