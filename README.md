@@ -1,13 +1,13 @@
 # Day 01
 
-## Naučeno
+## learned
 - printf
 - scanf
-- varijable
+- variables
 
-## Testovi
-- pozitivni brojevi
-- negativni brojevi
+## Tests
+- positive numbers
+- negative numbers
 
 ## Commit
 Day 01 complete
