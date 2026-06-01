@@ -1,23 +1,55 @@
-## Day 1
+# Day 01 – Hello World and Basic Arithmetic
 
-- this is the first day of learning c language and today I made few basic programes
+## Overview
 
-## TASKS
--1. Task was the classic one: Hello World
+This folder contains my first C programming exercises.
 
-First programme is an introduction to programing by saying hello to it wtih an easy printf. An aditional task was to create a program that writes down a name and year of studies so I did it seperatly.
+The goal of Day 01 was to set up the basic C workflow, write my first programs, compile them with GCC, run them from the terminal, and document the results.
 
--2. Task was to make a program that calculates an average of any three numbers
+This day is important because it confirms that my development environment works correctly and that I understand the basic structure of a C program.
 
-Here you need to know a difference between float and int. Bassicly use int for full numbers and float for decimal. After that using maths you write a program calculatin an average an printf to get the resuls. I choose to do it with a scanf because it allows me to type numbers when I run the program and not have to compile it every time I want to change the numbers.
+## Files in This Folder
 
--3. Task was too write a conversion program from km in m
+```txt
+day01/
+├── hello.c
+├── average.c
+├── conversion.c
+├── name.c
+└── README.md
+```
+# average.c
 
-That is an easy one. Scanf to be able to enter a number, after that multiply that number with 1000 and than write the answer with printf
+This program reads three numbers and prints their average
 
--4. Task was for every result to have 2 decimals
+Concepts used:
+- scanf
+- printf
+- integer variables
+- basic arithmetic
 
-When in printf I just put instead of regular %f this %.2f and that is our day one done.
+Example input:
+2
+2
+2
 
-## Day01 completed
-It is an easy start but that is just the begining. This journey only started...
+Example output:
+Their average is: 2
+
+## conversion.c
+
+This program reads a number that is in km and prints it in m
+
+Concepts used:
+- scanf
+- printf
+- integer variables
+- basic arithmetic
+
+Example input:
+1
+
+Example output:
+1000
+
+
