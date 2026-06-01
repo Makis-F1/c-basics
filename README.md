@@ -1,27 +1,58 @@
 # C Basics
 
-This repository contains my first C programming exercises as part of my long-term engineering roadmap toward embedded systems, automotive, telemetry, and motorsport/F1-related skills.
+This repository contains my first C programming exercises as part of my long-term engineering roadmap toward embedded systems, automotive software, telemetry, Formula Student, and motorsport/F1-related skills.
 
-The goal of this repository is not only to write code, but to learn how to think, test, document, and work like an engineer.
+The goal of this repository is not only to write code, but also to learn how to think, test, document, and work like an engineer.
 
-## Goals
+## Main Goals
 
-- Learn basic C programming
-- Practice input/output
-- Understand conditions, loops, functions, and arrays
-- Build clean folder structure
-- Use Git and GitHub consistently
-- Write clear README files and commit messages
-- Build foundations for embedded systems and telemetry projects
+Through this repository I am learning:
+
+- basic C programming
+- how to compile C programs with GCC
+- how to use the terminal
+- how to organize code into folders
+- how to use Git and GitHub
+- how to write clean README documentation
+- how to test programs with multiple inputs
+- how to explain code clearly
+- how to build foundations for embedded systems and telemetry projects
+
+## Tools Used
+
+- C programming language
+- GCC compiler
+- Visual Studio Code
+- Git
+- GitHub
+- Windows PowerShell / Terminal
 
 ## Repository Structure
 
 ```txt
 c-basics/
-├── day01/ – Hello World and basic arithmetic
-├── day02/ – Input, averages, and even/odd checks
-├── day03/ – Conditional logic and sensor-style checks
-├── day04/ – Switch-case calculator with error handling
+├── README.md
+├── .gitignore
+│
+├── day01/
+│   ├── hello.c
+│   ├── sum_two_numbers.c
+│   └── README.md
+│
+├── day02/
+│   ├── average_three.c
+│   ├── even_odd.c
+│   └── README.md
+│
+├── day03/
+│   ├── max_of_three.c
+│   ├── leap_year.c
+│   ├── sensor_alarm.c
+│   └── README.md
+│
+└── day04/
+    ├── calculator_menu.c
+    └── README.md
 
 
 
