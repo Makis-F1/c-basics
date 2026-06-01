@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    int n,t,i,b,s=0;
+    int n,t,i,b,s;
     printf("Insert the amount of numbers you want to insert: ");
     scanf("%d",&n);
     printf("insert their threshold: ");
