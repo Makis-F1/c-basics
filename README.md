@@ -35,24 +35,152 @@ c-basics/
 ├── .gitignore
 │
 ├── day01/
-│   ├── hello.c
-│   ├── sum_two_numbers.c
+│   ├── Hello.c
+│   ├── average.c
+│   ├── conversion.c
+│   ├── name.c
 │   └── README.md
 │
 ├── day02/
-│   ├── average_three.c
-│   ├── even_odd.c
+│   ├── average_speed.c
+│   ├── circle.c
+│   ├── conversion.c
+│   ├── sum_two_numbers.c
 │   └── README.md
 │
 ├── day03/
-│   ├── max_of_three.c
+│   ├── Alarm.c
+│   ├── highest_number.c
 │   ├── leap_year.c
-│   ├── sensor_alarm.c
+│   ├── odd_even.c
 │   └── README.md
 │
 └── day04/
-    ├── calculator_menu.c
+    ├── calculator.c
     └── README.md
+```
 
+## Progress
 
+- [x] Day 01 – Basic output, variables, average calculation, and unit conversion
+- [x] Day 02 – User input, math formulas, speed calculation, and unit conversion
+- [x] Day 03 – Conditional logic, even/odd check, highest number, leap year, and sensor alarm
+- [x] Day 04 – Switch-case calculator with error handling
+- [ ] Day 05 – For loops
+- [ ] Day 06 – While loops and input validation
+- [ ] Day 07 – Functions
+- [ ] Day 08 – Arrays
 
+## Current Focus
+
+I am currently building the foundation of C programming.
+
+The focus is on:
+
+- writing simple C programs
+- using input and output
+- understanding conditions
+- testing edge cases
+- documenting every exercise
+- building a professional GitHub workflow
+
+## How to Compile and Run
+
+Example from the root folder:
+
+```bash
+cd day01
+gcc Hello.c -o Hello.exe
+./Hello.exe
+```
+
+On Windows PowerShell:
+
+```powershell
+.\Hello.exe
+```
+
+Another example:
+
+```bash
+cd day04
+gcc calculator.c -o calculator.exe
+./calculator.exe
+```
+
+On Windows PowerShell:
+
+```powershell
+.\calculator.exe
+```
+
+## Commit Message Style
+
+I use clear commit messages that describe what was added or changed.
+
+Good examples:
+
+```txt
+Day 01: added basic C exercises
+Day 02: implemented math and conversion exercises
+Day 03: added conditional logic exercises
+Day 04: created switch-based calculator with error handling
+```
+
+Bad examples I avoid:
+
+```txt
+update
+fix
+changes
+final
+```
+
+## What I Am Practicing
+
+Through this repository I am practicing:
+
+- basic C syntax
+- compiling with GCC
+- terminal workflow
+- organizing files by topic
+- documenting my work
+- testing programs with different inputs
+- writing meaningful commit messages
+
+## Long-Term Direction
+
+This repository is part of my preparation for:
+
+- embedded systems
+- automotive software
+- Formula Student
+- telemetry and data logging
+- motorsport engineering
+
+## General Testing Rule
+
+Before committing, I should always check:
+
+- the code compiles without errors
+- the program gives the expected output
+- at least one edge case was tested
+- the file is saved in the correct folder
+- the README is updated
+- the commit message is clear
+
+## Next Steps
+
+After Day 04, I will continue with:
+
+- Day 05 – For loops
+- Day 06 – While loops and input validation
+- Day 07 – Functions
+- Day 08 – Arrays
+
+These topics will prepare me for larger programs such as:
+
+- calculator v2
+- console statistics tool
+- telemetry analyzer
+- sensor data simulator
