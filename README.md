@@ -55,9 +55,22 @@ c-basics/
 │   ├── odd_even.c
 │   └── README.md
 │
-└── day04/
+├── day04/
     ├── calculator.c
     └── README.md
+├── day05/
+│   ├── multiplication_table.c
+│   ├── numbers.c
+│   ├── sum_of_n_numbers.c
+│   ├── threshold.c
+│   └── README.md
+│
+├── day06/
+│   ├── Validation.c
+│   ├── guess.c
+│   ├── input.c
+│   ├── speed.c
+│   └── README.md
 ```
 
 ## Progress
@@ -66,8 +79,8 @@ c-basics/
 - [x] Day 02 – User input, math formulas, speed calculation, and unit conversion
 - [x] Day 03 – Conditional logic, even/odd check, highest number, leap year, and sensor alarm
 - [x] Day 04 – Switch-case calculator with error handling
-- [ ] Day 05 – For loops
-- [ ] Day 06 – While loops and input validation
+- [x] Day 05 – For loops, sums, multiplication tables, and threshold counting
+- [x] Day 06 – While loops, input validation, guessing game, and speed decrease counting
 - [ ] Day 07 – Functions
 - [ ] Day 08 – Arrays
 
@@ -171,10 +184,8 @@ Before committing, I should always check:
 
 ## Next Steps
 
-After Day 04, I will continue with:
+After Day 06, I will continue with:
 
-- Day 05 – For loops
-- Day 06 – While loops and input validation
 - Day 07 – Functions
 - Day 08 – Arrays
 
