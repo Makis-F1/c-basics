@@ -77,6 +77,12 @@ c-basics/
 │   ├── kmh_to_ms.c
 │   ├── max2.c
 │   └── README.md
+├── day08/
+│   ├── above_average.c
+│   ├── average.c
+│   ├── max.c
+│   ├── min.c
+│   └── README.md
 ```
 
 ## Progress
@@ -88,7 +94,7 @@ c-basics/
 - [x] Day 05 – For loops, sums, multiplication tables, and threshold counting
 - [x] Day 06 – While loops, input validation, guessing game, and speed decrease counting
 - [x] Day 07 – Functions, return values, unit conversion, and calculator refactoring
-- [ ] Day 08 – Arrays
+- [x] Day 08 – Arrays, min/max values, average calculation, and values above average
 
 ## Current Focus
 
@@ -190,9 +196,10 @@ Before committing, I should always check:
 
 ## Next Steps
 
-After Day 07, I will continue with:
+After Day 08, I will continue with:
 
-- Day 08 – Arrays
+- Day 09 – Strings and character arrays
+- Day 10 – Structs
 
 These topics will prepare me for larger programs such as:
 
