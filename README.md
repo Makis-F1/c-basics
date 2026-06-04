@@ -71,6 +71,12 @@ c-basics/
 │   ├── input.c
 │   ├── speed.c
 │   └── README.md
+├── day07/
+│   ├── average3.c
+│   ├── calculatorV2.c
+│   ├── kmh_to_ms.c
+│   ├── max2.c
+│   └── README.md
 ```
 
 ## Progress
@@ -81,7 +87,7 @@ c-basics/
 - [x] Day 04 – Switch-case calculator with error handling
 - [x] Day 05 – For loops, sums, multiplication tables, and threshold counting
 - [x] Day 06 – While loops, input validation, guessing game, and speed decrease counting
-- [ ] Day 07 – Functions
+- [x] Day 07 – Functions, return values, unit conversion, and calculator refactoring
 - [ ] Day 08 – Arrays
 
 ## Current Focus
@@ -184,9 +190,8 @@ Before committing, I should always check:
 
 ## Next Steps
 
-After Day 06, I will continue with:
+After Day 07, I will continue with:
 
-- Day 07 – Functions
 - Day 08 – Arrays
 
 These topics will prepare me for larger programs such as:
