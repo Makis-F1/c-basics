@@ -14,6 +14,6 @@ int main(void){
             x+=1;
         }
     }
-    printf("This name has %d vowels.",x);
+    printf("This word has %d vowels.",x);
 }
 
