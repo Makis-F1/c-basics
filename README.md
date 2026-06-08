@@ -83,6 +83,13 @@ c-basics/
 │   ├── max.c
 │   ├── min.c
 │   └── README.md
+│
+├── day09/
+│   ├── compare.c
+│   ├── login.c
+│   ├── name_lenght.c
+│   ├── vowels.c
+│   └── README.md
 ```
 
 ## Progress
@@ -95,6 +102,7 @@ c-basics/
 - [x] Day 06 – While loops, input validation, guessing game, and speed decrease counting
 - [x] Day 07 – Functions, return values, unit conversion, and calculator refactoring
 - [x] Day 08 – Arrays, min/max values, average calculation, and values above average
+- [x] Day 09 – Strings, character arrays, string comparison, vowel counting, and basic login validation
 
 ## Current Focus
 
@@ -196,10 +204,10 @@ Before committing, I should always check:
 
 ## Next Steps
 
-After Day 08, I will continue with:
+After Day 09, I will continue with:
 
-- Day 09 – Strings and character arrays
-- Day 10 – Structs
+* Day 10 – Structs
+* Day 11 – Pointers
 
 These topics will prepare me for larger programs such as:
 
